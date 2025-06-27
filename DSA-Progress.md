@@ -11,14 +11,12 @@ This repo tracks my daily progress through a 4-week structured DSA plan aimed at
 
 | Problem | Platform | Link | Status | Notes |
 |---------|----------|------|--------|-------|
-| Two Sum | LeetCode | [🔗](https://leetcode.com/problems/two-sum/) | ⬜ | HashMap |
-| Subarray with 0 Sum | GFG | [🔗](https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/) | ⬜ | Prefix Sum |
-| Longest Consecutive Sequence | LeetCode | [🔗](https://leetcode.com/problems/longest-consecutive-sequence/) | ⬜ | Set |
-| Count Distinct in Window | GFG | [🔗](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ⬜ | Sliding Window |
-| Pair with Given Sum | GFG | [🔗](https://practice.geeksforgeeks.org/problems/key-pair5616/1) | ⬜ | HashMap |
-| Find All Duplicates | LeetCode | [🔗](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ⬜ | Index-based |
-| Subarray Sum Equals K | LeetCode | [🔗](https://leetcode.com/problems/subarray-sum-equals-k/) | ⬜ | HashMap prefix |
-| Frequency of Most Frequent Element | LeetCode | [🔗](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | ⬜ | Sliding Window |
+| Two Sum | LeetCode | [🔗](https://leetcode.com/problems/two-sum/) | ✅ | HashMap |
+| Subarray with 0 Sum | GFG | [🔗](https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/) | ✅ | Prefix Sum |
+| Longest Consecutive Sequence | LeetCode | [🔗](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | Set |
+| Count Distinct in Window | GFG | [🔗](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ | Sliding Window |
+| Pair with Given Sum | GFG | [🔗](https://practice.geeksforgeeks.org/problems/key-pair5616/1) | ✅ | HashMap |
+
 
 ---
 
