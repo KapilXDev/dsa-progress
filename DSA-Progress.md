@@ -22,6 +22,33 @@ This repo tracks my daily progress through a 4-week structured DSA plan aimed at
 
 ### 🧵 Day 2: Strings + Sliding Window (Next Topic)
 
+---
+
+### 📚 Study Material: Strings + Sliding Window (Free Resources)
+
+#### 📘 Articles & Notes
+- [Sliding Window Technique – GeeksforGeeks](https://www.geeksforgeeks.org/window-sliding-technique/)
+- [Sliding Window (Variable Size) – GFG](https://www.geeksforgeeks.org/sliding-window-technique-set-2-variable-size-window/)
+- [LeetCode Sliding Window Pattern Notes – Sean Prashad](https://seanprashad.com/leetcode-patterns/#sliding-window)
+
+#### 📺 Video Tutorials
+- [Sliding Window in 10 Minutes – NeetCode](https://www.youtube.com/watch?v=8DEfhzYdG6c)
+- [Sliding Window Java – Take U Forward](https://www.youtube.com/watch?v=zoJB2UWhz3I)
+
+---
+
+### ✅ What to Focus On
+- Understand fixed vs variable window
+- Solve using frequency map, two pointers
+- Use patterns in problems like:
+  - Longest Substring Without Repeats
+  - Count Occurrences of Anagrams
+  - Minimum Window Substring
+
+---
+
+
+
 | Problem | Platform | Link | Status | Notes |
 |---------|----------|------|--------|-------|
 | Valid Anagram | LeetCode | [🔗](https://leetcode.com/problems/valid-anagram/) | ⬜ | Sorting / Count array |
