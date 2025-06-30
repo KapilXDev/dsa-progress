@@ -51,12 +51,12 @@ This repo tracks my daily progress through a 4-week structured DSA plan aimed at
 
 | Problem | Platform | Link | Status | Notes |
 |---------|----------|------|--------|-------|
-| Valid Anagram | LeetCode | [🔗](https://leetcode.com/problems/valid-anagram/) | ⬜ | Sorting / Count array |
-| Longest Substring Without Repeating Characters | LeetCode | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ⬜ | Sliding Window + Set |
-| Minimum Window Substring | LeetCode | [🔗](https://leetcode.com/problems/minimum-window-substring/) | ⬜ | Sliding Window + Frequency |
-| Count Occurrences of Anagram | GFG | [🔗](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams/0) | ⬜ | Window + Map |
-| Longest Repeating Character Replacement | LeetCode | [🔗](https://leetcode.com/problems/longest-repeating-character-replacement/) | ⬜ | Binary + Window |
-| Permutation in String | LeetCode | [🔗](https://leetcode.com/problems/permutation-in-string/) | ⬜ | Sliding Window |
+| Valid Anagram | LeetCode | [🔗](https://leetcode.com/problems/valid-anagram/) | ✅ | Sorting / Count array |
+| Longest Substring Without Repeating Characters | LeetCode | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | Sliding Window + Set |
+| Minimum Window Substring | LeetCode | [🔗](https://leetcode.com/problems/minimum-window-substring/) | ✅ | Sliding Window + Frequency |
+| Count Occurrences of Anagram | GFG | [🔗](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams/0) | ✅ | Window + Map |
+| Longest Repeating Character Replacement | LeetCode | [🔗](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅ | Binary + Window |
+| Permutation in String | LeetCode | [🔗](https://leetcode.com/problems/permutation-in-string/) | ✅ | Sliding Window |
 
 ---
 
