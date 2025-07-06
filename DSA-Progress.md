@@ -93,6 +93,40 @@ This repo tracks my daily progress through a 4-week structured DSA plan aimed at
 - Use stack for tracking "previous" or "next" element comparisons
 - Learn to identify **monotonic stack** patterns (increasing or decreasing)
 
+---
+
+### 🔁 Day 4: Recursion Basics
+
+| Problem | Platform | Link | Status | Notes |
+|---------|----------|------|--------|-------|
+| Fibonacci Number | LeetCode | [🔗](https://leetcode.com/problems/fibonacci-number/) | ⬜ | Classic recursion vs memoization |
+| Factorial Using Recursion | GFG | [🔗](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/) | ⬜ | Base case and recursion tree |
+| Print All Subsequences | GFG | [🔗](https://www.geeksforgeeks.org/print-subsequences-string/) | ⬜ | Pick/not-pick pattern |
+| Subset Sum I | GFG | [🔗](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | ⬜ | Recursion + backtrack |
+| Power of Two | LeetCode | [🔗](https://leetcode.com/problems/power-of-two/) | ⬜ | Simple base case + divide |
+| Reverse a String Recursively | LeetCode | [🔗](https://leetcode.com/problems/reverse-string/) | ⬜ | Swap ends using recursion |
+| Palindrome String (Recursion) | GFG | [🔗](https://www.geeksforgeeks.org/check-string-palindrome-not-using-recursion/) | ⬜ | Two-pointer recursive |
+
+---
+
+### 📚 Study Material: Recursion Basics
+
+#### 📘 Articles
+- [Recursion Explained Simply – GFG](https://www.geeksforgeeks.org/recursion/)
+- [Backtracking vs Recursion – GFG](https://www.geeksforgeeks.org/recursion-vs-backtracking/)
+- [Subset/Power Set Pattern – GFG](https://www.geeksforgeeks.org/finding-all-subsets-of-a-given-set-in-java/)
+
+#### 📺 Videos
+- [Striver's Recursion Series – Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qYbL4TBaEWgb-ljVdhkM7R)
+- [NeetCode: Recursion Patterns](https://www.youtube.com/watch?v=NgZx8JzA3aQ)
+
+---
+
+### 🧠 Tips:
+- Always define **base case** first
+- Think of recursion as a **stack of decisions**
+- Use recursion trees to trace
+- Practice dry runs for “print all subsequences” or “subset sum”
 
 
 ### 🧠 How I Track
