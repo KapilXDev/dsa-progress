@@ -100,7 +100,7 @@ This repo tracks my daily progress through a 4-week structured DSA plan aimed at
 | Problem | Platform | Link | Status | Notes |
 |---------|----------|------|--------|-------|
 | Fibonacci Number | LeetCode | [🔗](https://leetcode.com/problems/fibonacci-number/) | ⬜ | Classic recursion vs memoization |
-| Factorial Using Recursion | GFG | [🔗](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/) | ⬜ | Base case and recursion tree |
+| Factorial Using Recursion | GFG | [🔗](https://practice.geeksforgeeks.org/problems/factorial5739/1) | ⬜ | Base case and recursion tree |
 | Print All Subsequences | GFG | [🔗](https://www.geeksforgeeks.org/print-subsequences-string/) | ⬜ | Pick/not-pick pattern |
 | Subset Sum I | GFG | [🔗](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | ⬜ | Recursion + backtrack |
 | Power of Two | LeetCode | [🔗](https://leetcode.com/problems/power-of-two/) | ⬜ | Simple base case + divide |
